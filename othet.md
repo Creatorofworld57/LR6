@@ -6,7 +6,7 @@
 
 ## **Решение:**
 
-**4. Настройка клиента git, ввод имени, email.**
+**4. Настройка клиента git, вывод имени, email (так я уже зарегистрирован).**
 
 ![image1](https://github.com/Creatorofworld57/LR6/blob/otchet_op_lab_6/Images/image1.png?raw=true)
 
