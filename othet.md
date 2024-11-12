@@ -8,7 +8,7 @@
 
 **4. Настройка клиента git, ввод имени, email.**
 
-![image1](https://github.com/user-attachments/assets/762aee39-03c2-4f46-a17f-5ca6189b4536)
+![image1](https://github.com/Creatorofworld57/LR6/blob/otchet_op_lab_6/Images/image1.png?raw=true)
 
 **5. Клонирование своего удалённого репозитория на компьютер**
 
