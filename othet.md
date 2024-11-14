@@ -37,7 +37,7 @@
 
 **11. Сделать изменения и зафиксировать их, оставляя комментарии несколько раз.**
 
-![image17](https://github.com/Creatorofworld57/LR6/blob/otchet_op_lab_6/Images/image9.png?raw=true)
+![image17](https://github.com/Creatorofworld57/LR6/blob/otchet_op_lab_6/Images/image%2017.png?raw=true)
 
 **12. Сделать откат коммита.**
 
