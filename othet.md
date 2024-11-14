@@ -41,7 +41,7 @@
 
 **12. Сделать откат коммита.**
 
-![image13](https://github.com/Creatorofworld57/LR6/blob/otchet_op_lab_6/Images/image13.png?raw=true)
+![image16](https://github.com/Creatorofworld57/LR6/blob/otchet_op_lab_6/Images/image13.png?raw=true)
 
 **13. Создать ветку для отчёта.**
 
@@ -51,7 +51,7 @@
 хэш + дата + имя автора + комментарий). Добавить её в отчёт и сделать
 финальную фиксацию изменений.**
 
-![image11](https://github.com/Creatorofworld57/LR6/blob/otchet_op_lab_6/Images/image11.png?raw=true)
+![image15](https://github.com/Creatorofworld57/LR6/blob/otchet_op_lab_6/Images/image11.png?raw=true)
 
 **16. Отправить локальные изменения в сетевое хранилище GitHub (если
 делаете работу постепенно, то синхронизацию проводить в конце рабочего
